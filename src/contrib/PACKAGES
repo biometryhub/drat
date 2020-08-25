@@ -1,0 +1,9 @@
+Package: BiometryTraining
+Version: 0.5.2
+Depends: R (>= 3.5.0)
+Imports: agricolae, asremlPlus, ggplot2, httr, lucid, multcompView, patchwork,
+          predictmeans, RColorBrewer, scales
+Suggests: covr, testthat, vdiffr
+License: MIT + file LICENSE
+MD5sum: bfbec6e16c142fe7815376b054cb64a2
+NeedsCompilation: no
